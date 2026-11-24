@@ -1,8 +1,8 @@
 # MuraTools: free browser tools
 
-A documentation and examples hub for [MuraTools](https://muratools.pages.dev/), with free utilities for PDF, images, text and developer workflows. No account is required to use the available tools.
+A documentation and examples hub for [MuraTools](https://muratools.netlify.app/), with free utilities for PDF, images, text and developer workflows. No account is required to use the available tools.
 
-دليل وأمثلة لأدوات [MuraTools](https://muratools.pages.dev/) المجانية للـPDF والصور والنصوص والمطورين، من غير حساب لاستخدام الأدوات المتاحة.
+دليل وأمثلة لأدوات [MuraTools](https://muratools.netlify.app/) المجانية للـPDF والصور والنصوص والمطورين، من غير حساب لاستخدام الأدوات المتاحة.
 
 > This is documentation, not a source-code release. The live website is the place to use the tools. / ده مستودع توثيق، مش إصدار للكود المصدري. استخدم الأدوات من الموقع.
 
@@ -10,7 +10,7 @@ A documentation and examples hub for [MuraTools](https://muratools.pages.dev/), 
 
 ### HTML to Markdown
 
-[Open the converter / افتح المحول](https://muratools.pages.dev/tools/html-to-markdown/)
+[Open the converter / افتح المحول](https://muratools.netlify.app/tools/html-to-markdown/)
 
 Convert headings, paragraphs, links, lists and code blocks locally in your browser. Active content such as scripts and iframes is omitted. This is a content converter, not a lossless round trip.
 
@@ -28,7 +28,7 @@ The child should remain nested under Parent, with Second as a separate item. Che
 
 ### Image compression / ضغط الصور
 
-[Open Image Compressor / افتح ضاغط الصور](https://muratools.pages.dev/tools/image-compressor/)
+[Open Image Compressor / افتح ضاغط الصور](https://muratools.netlify.app/tools/image-compressor/)
 
 Choose output format and quality, optionally resize, then compare the result before saving. JPEG/WebP compression can be lossy. PNG output is lossless, so its quality slider does not reduce file size. AVIF support depends on the browser.
 
@@ -42,8 +42,8 @@ These two tools process supported input locally in your browser. Review each too
 
 ## Project links / روابط المشروع
 
-- [MuraTools](https://muratools.pages.dev/)
-- [Murabyte](https://murabyte.pages.dev/)
+- [MuraTools](https://muratools.netlify.app/)
+- [Murabyte](https://murabyte.netlify.app/)
 - [Commercial products on Gumroad / المنتجات المدفوعة](https://murabyte.gumroad.com/)
 
 Free-to-use access does not grant a source-code license. This repository does not contain paid product source. Examples may use synthetic data. No performance or business outcome is guaranteed.
